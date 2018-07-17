@@ -12,11 +12,11 @@ SuperChrono	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-restart KEYWORD2
-stop KEYWORD2
-resume KEYWORD2
-add KEYWORD2
-running KEYWORD2
+restart	KEYWORD2
+stop	KEYWORD2
+resume	KEYWORD2
+add	KEYWORD2
+running	KEYWORD2
 elapsed	KEYWORD2
 passed	KEYWORD2
 
