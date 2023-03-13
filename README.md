@@ -102,7 +102,7 @@ Resumes the chronometer.
 
 ```arduino
 // STOPS/PAUSES THE CHRONOMETER :
-mySuperChrono.stop();
+mySuperChrono.resume();
 
 ```
 
